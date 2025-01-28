@@ -9,7 +9,10 @@ import java.util.Scanner;
 /**
  * @author alu23d
  */
-//PruebaEntornos28/1
+ master
+//PruebaEntornos 28/01
+
+ master
 public class Biblioteca2025 {
 
     private ArrayList <Libro> libros;
@@ -32,6 +35,12 @@ public class Biblioteca2025 {
     }
     
     //<editor-fold defaultstate="collapsed" desc="MENUS">
+
+    //Método de Hugo para Gulnat
+private void mensajeEntornos(){
+    System.out.println("Prueba para Entornos 2");
+}
+    
     public void menu(){
         Scanner sc=new Scanner (System.in);
         int opcion=0;

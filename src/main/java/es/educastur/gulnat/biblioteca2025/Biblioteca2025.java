@@ -9,7 +9,10 @@ import java.util.Scanner;
 /**
  * @author alu23d
  */
+ master
 //PruebaEntornos 28/01
+
+ master
 public class Biblioteca2025 {
 
     private ArrayList <Libro> libros;
